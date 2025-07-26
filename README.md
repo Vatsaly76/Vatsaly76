@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VATSALY SHUKLA!</h1>
 
-<h3 align="center">💻 Passionate about coding, continuous learning, and building exciting projects. <br> Currently diving into AWS, Git, and Data Structures & Algorithms—one JavaScript problem at a time.</h3>
+<h3 align="center">💻 Passionate about coding, continuous learning, and building exciting projects.
+Currently diving into AWS, Git, and Data Structures & Algorithms—one JavaScript problem at a time.</h3>
 
 <h3 align="left">More About Me:</h3>
 
