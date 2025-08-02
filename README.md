@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm VATSALY SHUKLA!</h1>
 
-<h3 align="center">💻 Passionate about coding, continuous learning, and building exciting projects.
-Currently diving into AWS, Git, and Data Structures & Algorithms—one JavaScript problem at a time.</h3>
+<h3 align="center">Passionate about coding, learning, and building cool things.
+ Exploring AWS, Git, and DSA one commit at a time.
+📚 Currently solving problems-JavaScript</h3>
 
 <h3 align="left">More About Me:</h3>
 
@@ -30,9 +31,11 @@ Currently diving into AWS, Git, and Data Structures & Algorithms—one JavaScrip
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
@@ -46,6 +49,8 @@ Currently diving into AWS, Git, and Data Structures & Algorithms—one JavaScrip
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
 
