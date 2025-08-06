@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: **My Personal Projects , DSA**
 - 💬 Ask me about: **DSA , SQL , AWS**
 - 📫 How to reach me: [shuklavatsaly@gmail.com](mailto:shuklavatsaly@gmail.com)
-- 📄 **[My Resume](https://drive.google.com/file/d/12rMVLAV0IGly3tfTp7Xr0Fc5IhetHc7n/view?usp=drive_link)**
+- 📄 **[My Resume](https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view)**
 - ⚡ Fun fact: **I treat Git like a time machine—and yes, I’ve traveled back to save myself.**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,11 +31,9 @@
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
@@ -49,8 +47,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
 
