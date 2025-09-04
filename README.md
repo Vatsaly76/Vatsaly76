@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on: **My Personal Projects , DSA**
 - 💬 Ask me about: **DSA , SQL , AWS**
 - 📫 How to reach me: [shuklavatsaly@gmail.com](mailto:shuklavatsaly@gmail.com)
-- 👨‍💻 **[My Portfolio](https://vatsaly76.github.io/portfolio/)**
-- 📄 **[My Resume](https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view)**
+- 👨‍💻 <a href="https://vatsaly76.github.io/portfolio/" target="_blank">My Portfolio</a>
+- 📄 <a href="https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view" target="_blank">My Resume</a>
 - ⚡ Fun fact: **I treat Git like a time machine—and yes, I’ve traveled back to save myself.**
 
 <h3 align="left">Connect with me:</h3>
