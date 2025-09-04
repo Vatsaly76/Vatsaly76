@@ -10,14 +10,14 @@
 - 🔭 I’m currently working on: **My Personal Projects , DSA**
 - 💬 Ask me about: **DSA , SQL , AWS**
 - 📫 How to reach me: [shuklavatsaly@gmail.com](mailto:shuklavatsaly@gmail.com)
-- 👨‍💻 <a href="https://vatsaly76.github.io/portfolio/" target="_blank">My Portfolio</a>
-- 📄 <a href="https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view" target="_blank">My Resume</a>
+- 👨‍💻 **[My Portfolio](https://vatsaly76.github.io/portfolio/)**
+- 📄 **[My Resume](https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view)**
 - ⚡ Fun fact: **I treat Git like a time machine—and yes, I’ve traveled back to save myself.**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://vatsaly76.github.io/portfolio/" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+<a href="https://github.com/Vatsaly76" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://linkedin.com/in/vatsaly-shukla-a07423257" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
