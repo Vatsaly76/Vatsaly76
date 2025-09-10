@@ -17,14 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/Vatsaly76" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
   <a href="https://linkedin.com/in/vatsaly-shukla-a07423257" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://dev.to/https://vatsaly76.github.io/portfolio/" target="_blank" rel="noreferrer noopener" title="devdotto" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/devdotto" alt="devdotto" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://leetcode.com/Vatsaly_learner" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" style="vertical-align: middle;"/>
