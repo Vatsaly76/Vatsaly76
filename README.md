@@ -57,5 +57,13 @@
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Vatsaly76&theme=flag-india&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
+  <a href="https://leetcode.com/u/Vatsaly_learner/">
+    <img src="https://leetcard.jacoblin.cool/Vatsaly_learner?theme=light&font=Baloo%20Chettan%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vatsaly76&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
