@@ -11,9 +11,8 @@
 - 💬 Ask me about: **DSA , SQL , AWS**
 - 📫 How to reach me: [shuklavatsaly@gmail.com](mailto:shuklavatsaly@gmail.com)
 - 👨‍💻 **[My Portfolio](https://vatsaly76.github.io/portfolio/)**
-<!--- 📄 **[My Resume](https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view)** -->
 - ⚡ Fun fact: **I treat Git like a time machine—and yes, I’ve traveled back to save myself.**
-
+<!--- 📄 **[My Resume](https://drive.google.com/file/d/1F3vExdwBqDY6uUs18fR7bS9jQWzGINZr/view)** -->
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
