@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm VATSALY SHUKLA!</h1>
 
 <h3 align="center">Passionate about coding, learning, and building cool things.<br>
- Exploring AWS, Backend, and DSA one commit at a time.<br>
+ Exploring Docker, AWS, Backend, and DSA one commit at a time.<br>
 📚 Currently solving problems-JavaScript</h3>
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **AWS , Backend , SQL**
+- 🌱 I’m currently learning: **Backend, Docker, AWS, SQL**
 - 🔭 I’m currently working on: **My Personal Projects , DSA**
 - 💬 Ask me about: **DSA , SQL , AWS**
 - 📫 How to reach me: [shuklavatsaly@gmail.com](mailto:shuklavatsaly@gmail.com)
@@ -37,15 +37,15 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" height="45" style="vertical-align: middle; margin: 5px;" />
+ <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
+ <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
 
